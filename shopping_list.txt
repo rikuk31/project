@@ -1,6 +1,6 @@
--ei seksileluja
+-seksileluja
 -kortsuja
 -liukuvoidetta
 -banaaneja
 -kurkkuja
--ei vaippoja kyllä
+-vaippoja
