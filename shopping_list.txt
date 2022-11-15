@@ -3,4 +3,4 @@
 -liukuvoidetta
 -banaaneja
 -kurkkuja
--ei vaippoja
+-ei vaippoja kyllä
