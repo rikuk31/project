@@ -3,4 +3,4 @@
 -liukuvoidetta
 -banaaneja
 -kurkkuja
--vaippoja
+-ei vaippoja
